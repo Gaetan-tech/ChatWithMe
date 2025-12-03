@@ -1,3 +1,6 @@
+# ChatWithMe
+Application de chat anonyme avec un système de flag ( un qui écouté et donne son avis et l'autre qui parle dun sujet)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
